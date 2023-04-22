@@ -35,7 +35,7 @@ SDK can be used in 3 environments:
 1. Install the NPM package:
 
     ```sh
-    npm install @ringcentral/sdk --save
+    npm install https://github.com/makodmytro/-ringcentral.git --save
     ```
 
 2. Require the SDK:
